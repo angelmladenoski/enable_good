@@ -76,7 +76,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://git.brainster.co/Angel.Mladenoski-FE21/project003_angelmladenoski_fe21.git .
+   git clone https://github.com/angelmladenoski/enable_good.git .
    ```
 2. Install dependencies:
    ```bash
@@ -199,3 +199,4 @@ Developed and written by **Angel Mladenoski**
 📧 Email: [angel.mladenoski@gmail.com](mailto:angel.mladenoski@gmail.com)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/angel-mladenoski-46a27330a) <br/>
 🐙 [GitHub](https://github.com/angelmladenoski)
+
